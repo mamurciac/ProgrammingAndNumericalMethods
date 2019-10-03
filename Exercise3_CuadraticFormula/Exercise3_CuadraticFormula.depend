@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570084512 source:c:\users\michael\documents\matemáticas\programación y métodos numéricos\programmingandnumericalmethods\exercise3_cuadraticformula\main.cpp
+	<iostream>
+	<math.h>
+
