@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570166626 source:c:\users\michael\documents\matemáticas\programación y métodos numéricos\programmingandnumericalmethods\example12_drawingarectangle\main.cpp
+	<iostream>
+	<stdio.h>
+
