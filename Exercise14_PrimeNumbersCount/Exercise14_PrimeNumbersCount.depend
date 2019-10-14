@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571032159 source:c:\users\michael\documents\matemáticas\programación y métodos numéricos\programmingandnumericalmethods\exercise14_primenumberscount\main.cpp
+	<iostream>
+	<math.h>
+
