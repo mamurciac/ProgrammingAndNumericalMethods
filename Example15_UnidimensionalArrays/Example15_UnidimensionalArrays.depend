@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580945541 source:c:\users\michael\documents\matemáticas\programación y métodos numéricos\programmingandnumericalmethods\example15_unidimensionalarrays\main.cpp
+	<iostream>
+	<iomanip>
+
