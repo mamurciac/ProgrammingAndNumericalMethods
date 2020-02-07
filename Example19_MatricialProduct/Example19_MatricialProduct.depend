@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581035170 source:c:\users\michael\documents\matemáticas\programación y métodos numéricos\programmingandnumericalmethods\example19_matricialproduct\main.cpp
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
